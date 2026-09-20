@@ -1,6 +1,4 @@
-# Simple Calculator Project
-
-![Project Banner](AppIcon.ico)
+# <img src="AppIcon.ico" width="28" height="28" alt="App Icon" align="center"> Simple Calculator Project
 
 [![C#](https://img.shields.io/badge/Language-C%23-blue.svg?style=for-the-badge&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET Framework](https://img.shields.io/badge/Framework-.NET%20Framework%204.8-512BD4?style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/)
@@ -65,6 +63,18 @@ SimpleCalculatorProject/
 ---
 
 ## 🚀 Getting Started
+
+### 📦 Quick Download (Pre-built Executable)
+
+If you want to test the application directly without installing Visual Studio or compiling source code:
+
+1. Click the button above (or navigate to the **[Releases](../../releases)** page).
+2. Download `Simple-Calculator-v1.0.0.zip`.
+3. Extract the ZIP archive and run `SimpleCalc.exe`.
+
+---
+
+### 🛠️ Building From Source
 
 ### Prerequisites
 
